@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.todo-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  width: 90%;
+}
+.name {
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.button {
+  height: 30px;
+  width: 75px;
+  background-color: transparent;
+  border-radius: 6px;
+  border: 2px #ff0b37 solid;
+}
